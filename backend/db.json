@@ -1,0 +1,64 @@
+{
+  "categorias": [
+    {
+      "nombre": "Mochilas",
+      "id": "1"
+    },
+    {
+      "nombre": "Café",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "nombre": "Accesorios"
+    },
+    {
+      "id": "3283",
+      "nombre": "Utiles"
+    }
+  ],
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Mochila Escolar Azul",
+      "precio": 120,
+      "categoria": "Mochilas",
+      "imagen": "https://m.media-amazon.com/images/I/71Kr4MiiB7L._AC_SL1300_.jpg"
+    },
+    {
+      "id": "2",
+      "nombre": "Mochila Urbana Negra",
+      "precio": 180,
+      "categoria": "Mochilas",
+      "imagen": "https://m.media-amazon.com/images/I/71gOsaKKa+L._AC_SL1300_.jpg"
+    },
+    {
+      "id": "3",
+      "nombre": "Café Colombiano Premium",
+      "precio": 45,
+      "categoria": "Café",
+      "imagen": "https://images.unsplash.com/photo-1509042239860-f550ce710b93"
+    },
+    {
+      "nombre": "Café Espresso Italiano",
+      "precio": 55,
+      "categoria": "Café",
+      "imagen": "https://images.unsplash.com/photo-1511920170033-f8396924c348",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "nombre": "mochila color rosa + cartuchera",
+      "precio": 185,
+      "categoria": "Accesorios",
+      "imagen": "https://th.bing.com/th/id/R.641a347f7889ea7db184a7a1273581a9?rik=WRLTCo1PZfEmMw&pid=ImgRaw&r=0"
+    },
+    {
+      "id": "d298",
+      "nombre": "Cuaderno Verde a4",
+      "precio": 5,
+      "categoria": "Accesorios",
+      "imagen": "https://tse4.mm.bing.net/th/id/OIP.jbqqrjNKH2lZp-xufDaykQHaHa?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+    }
+  ]
+}
