@@ -1,4 +1,5 @@
 //--Jhoseph Taype Huarocc--//
+//ejecute npm run dev para iniciar el proyecto y en otra terminal npm run backend para iniciar el backend o el API//
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 import { List } from './pages/List'
